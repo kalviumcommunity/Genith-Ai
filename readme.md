@@ -56,5 +56,3 @@ This is a learning-focused project built under **Kalvium’s Developing AI Agent
 
 ---
 
-## 📬 Contact  
-Built with 💡 by Sanskar
